@@ -1,0 +1,32 @@
+.app-container {
+  padding: 20px;
+}
+
+.search-input {
+  margin-bottom: 20px;
+  padding: 8px;
+  width: 300px;
+}
+
+.emoji-results {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.emoji-card {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.emoji-card-body {
+  font-size: 18px;
+}
+
+.emoji-symbol {
+  margin-right: 10px;
+  font-size: 24px;
+}

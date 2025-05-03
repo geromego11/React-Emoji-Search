@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Grinning Face",
+      "symbol": "😀",
+      "keywords": "happy smile joy"
+    },
+    {
+      "title": "Smiling Face with Heart-Eyes",
+      "symbol": "😍",
+      "keywords": "love crush infatuation"
+    },
+    {
+      "title": "Face with Tears of Joy",
+      "symbol": "😂",
+      "keywords": "funny laugh haha"
+    },
+    {
+      "title": "Thinking Face",
+      "symbol": "🤔",
+      "keywords": "ponder consider curious"
+    },
+    {
+      "title": "Thumbs Up",
+      "symbol": "👍",
+      "keywords": "approval okay yes"
+    },
+    {
+      "title": "Fire",
+      "symbol": "🔥",
+      "keywords": "hot lit amazing"
+    },
+    {
+      "title": "Party Popper",
+      "symbol": "🎉",
+      "keywords": "celebration congrats tada"
+    },
+    {
+      "title": "Red Heart",
+      "symbol": "❤️",
+      "keywords": "love passion romance"
+    },
+    {
+      "title": "Rocket",
+      "symbol": "🚀",
+      "keywords": "launch space blastoff"
+    },
+    {
+      "title": "Crying Face",
+      "symbol": "😢",
+      "keywords": "sad tear upset"
+    }
+  ]
